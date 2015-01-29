@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>beijing01.png</file>
+        <file>beijing02.png</file>
+        <file>last.png</file>
+        <file>next.png</file>
+        <file>pause.png</file>
+        <file>pause2.png</file>
+        <file>quiet.png</file>
+        <file>slider.png</file>
+        <file>sliderHandle.png</file>
+        <file>start.png</file>
+        <file>stop.png</file>
+        <file>volumn.png</file>
+    </qresource>
+</RCC>
